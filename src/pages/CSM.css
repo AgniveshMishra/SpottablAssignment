@@ -1,0 +1,12 @@
+.csm-container {
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-radius: 14px;
+}
+.csm-userList {
+	width: 90vw;
+	margin-top: 20px;
+	border: 1px solid rgb(92, 93, 95, 0.4);
+	border-radius: 4px;
+}
